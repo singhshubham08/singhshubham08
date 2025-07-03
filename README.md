@@ -39,7 +39,7 @@
 
 
 
-yaml
+```yaml
 Nome: Shubham Singh
 Location: Gurugram, India
 Education: BCA | MDU, India
@@ -59,8 +59,8 @@ Areas of Interest:
   - SQL & Database Design
   - ETL & Data Integration
   - Decision Support Systems
- 
-
+    
+```
 
 
 

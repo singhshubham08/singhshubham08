@@ -192,7 +192,7 @@ Areas of Interest:
       <td width="50%">
   <h3 align="center">🔎 Exploratory Dashboard</h3>
   <p align="center">
-    <a href="https://github.com/Ravi10300/Data-Analyst-Project/tree/main">
+    <a href="https://github.com/singhshubham08/Hotel-Revenue-Project-.git">
       <img src="https://github.com/Ravi10300/Data-Analyst-Project/blob/main/Screenshot%20.png" width="100%" alt="Financial Dashboard" />
       <br>
       <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />

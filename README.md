@@ -192,33 +192,16 @@ Areas of Interest:
       <td width="50%">
   <h3 align="center">🔎 Exploratory Dashboard</h3>
   <p align="center">
-    <a href="https://github.com/singhshubham08/Data-Analyst-Project.git">
+    <a href="https://github.com/singhshubham08/Hotel-Revenue-Project-.git">
       <img src="https://github.com/Ravi10300/Data-Analyst-Project/blob/main/Screenshot%20.png" width="100%" alt="Financial Dashboard" />
       <br>
       <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
     </a>
   </p>
-</td> 
-      <td width="50%">
-  <h3 align="center">🔄 Currently Working on This Dashboard</h3>
-  <p align="center">
-    <a href=" ### ">
-      <img src="https://github.com/Ravi10300/Marksheet/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2010_54_53%20PM.png" width="100%" alt="Financial Dashboard" />
-      <br>
-      <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
-    </a>
-  </p>
 </td>
-<td width="50%">
-  <h3 align="center">🔄 Currently Working on This Dashboard</h3>
-  <p align="center">
-    <a href=" ### ">
-      <img src="https://github.com/Ravi10300/Marksheet/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2010_54_53%20PM.png" width="100%" alt="Financial Dashboard" />
-      <br>
-      <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
-    </a>
-  </p>
-</td>
+
+ 
+
 </tr>
   </table>
 </div>
